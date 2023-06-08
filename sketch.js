@@ -14,7 +14,7 @@ let customFont;
 let customOutputParagraph;
 
 function preload() {
-  csvData = loadStrings("/kamus.csv");
+  csvData = loadStrings("/kamuszufrasiv03.csv");
   customFont = loadFont("Zugrafi3.otf");
 }
 
